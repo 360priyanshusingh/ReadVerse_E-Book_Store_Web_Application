@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6620bc00203efc4a19d77a6c"
+  },
+  "fname": "Ankur ",
+  "lname": "Dhote",
+  "email": "ankur@.com",
+  "password": "1234",
+  "pic": "pic_1713421312959.jpg",
+  "contact": "6456536",
+  "status": "Accept",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620bcdb203efc4a19d77a71"
+  },
+  "fname": "Khushi",
+  "lname": "Parmar",
+  "email": "Khushi@.com",
+  "password": "1234",
+  "pic": "pic_1713421531065.jpg",
+  "contact": "1243645",
+  "status": "Accept",
+  "__v": 0
+}]

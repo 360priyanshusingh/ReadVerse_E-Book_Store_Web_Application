@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6620d382203efc4a19d77b24"
+  },
+  "fname": "Priyanshu",
+  "lname": "Sisodiya",
+  "email": "Priyanshu@.com",
+  "password": "1234",
+  "pic": "pic_1713427330562.jpg",
+  "contact": "123455999",
+  "status": "Pending",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620e8dd203efc4a19d783db"
+  },
+  "fname": "Divya Singh",
+  "lname": "Sisodiya",
+  "email": "Divya@.com",
+  "password": "1234",
+  "pic": "pic_1713432797660.jpg",
+  "contact": "1233454655",
+  "status": "Pending",
+  "__v": 0
+}]

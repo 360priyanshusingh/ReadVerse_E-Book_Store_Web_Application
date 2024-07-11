@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6620bea6203efc4a19d77a81"
+  },
+  "name": "Fiction",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c176203efc4a19d77a86"
+  },
+  "name": "Thriller",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c188203efc4a19d77a89"
+  },
+  "name": "Tech",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c1b6203efc4a19d77a8e"
+  },
+  "name": "Romance",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c1d1203efc4a19d77a93"
+  },
+  "name": "Mango",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6620c240203efc4a19d77a9a"
+  },
+  "name": "Philoshopy",
+  "__v": 0
+}]
